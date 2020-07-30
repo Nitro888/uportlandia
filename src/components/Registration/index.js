@@ -7,7 +7,7 @@ import Landing from "./LandingContainer";
 import Form from "./FormContainer";
 import Receive from "./ReceiveContainer";
 import Success from "../shared/Success";
-import ClaimExists from "./ClaimExists";
+import ClaimExists from "./ClaimExists2";
 import Footer from "../shared/Footer";
 import { ContentLayout, BackButton } from "../shared/elements";
 import { Container } from "../shared/grid";
