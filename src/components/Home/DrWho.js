@@ -35,7 +35,6 @@ class Header extends React.Component {
     }
   }
   render() {
-    const { t } = this.props;
     return (
     <Hero>
       <Hero.Welcome>
@@ -45,10 +44,10 @@ class Header extends React.Component {
         <p>진료를 원하시면 아래의 접수 버튼을 눌러주세요.</p>
         <br/>
         <button onClick={this.showLoginModal} style={{ 
-          'border-radius': '50px',
+          borderRadius: '50px',
           display: 'inline-block',
           border: 'none',
-          'font-size': '1.75rem',
+          fontSize: '1.75rem',
           padding: '16px 38px',
           transform: 'none',
         }}>

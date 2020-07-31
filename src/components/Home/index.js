@@ -2,7 +2,7 @@ import React from "react";
 import { connect } from "react-redux";
 
 import { showAppDownload } from "../../selectors";
-import DrWho from "./DrWho";
+import DrWho from "./DrWhoContainer";
 
 class Home extends React.Component {
   render() {
