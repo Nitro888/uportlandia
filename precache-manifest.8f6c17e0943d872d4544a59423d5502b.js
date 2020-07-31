@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "a8b6837d0cf13802b63a",
+    "revision": "f8d6b4be7dfaf1f29cf3",
     "url": "/uportlandia/static/css/main.45e713d8.chunk.css"
   },
   {
-    "revision": "a8b6837d0cf13802b63a",
-    "url": "/uportlandia/static/js/main.0da428c6.chunk.js"
+    "revision": "f8d6b4be7dfaf1f29cf3",
+    "url": "/uportlandia/static/js/main.625e32f0.chunk.js"
   },
   {
     "revision": "14ea764e95508945d8d7",
     "url": "/uportlandia/static/js/runtime~main.d45aafa6.js"
   },
   {
-    "revision": "aa233f913b9fd1f953a4",
-    "url": "/uportlandia/static/js/2.6e258da5.chunk.js"
+    "revision": "f468a2b0c57784963968",
+    "url": "/uportlandia/static/js/2.062319be.chunk.js"
   },
   {
     "revision": "09cfe256212b76eed2c5e1cbde567ed0",
@@ -120,7 +120,7 @@ self.__precacheManifest = [
     "url": "/uportlandia/static/media/smiley-face-diploma.ee6b2d97.svg"
   },
   {
-    "revision": "4662ccf6e6ae7161acb40935dc12a221",
+    "revision": "4bacc88aa9bffa0d753970c0ee9c7f6c",
     "url": "/uportlandia/index.html"
   }
 ];
