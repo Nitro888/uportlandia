@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "f8d6b4be7dfaf1f29cf3",
+    "revision": "5456b66dad6dbc7fe78b",
     "url": "/uportlandia/static/css/main.45e713d8.chunk.css"
   },
   {
-    "revision": "f8d6b4be7dfaf1f29cf3",
-    "url": "/uportlandia/static/js/main.625e32f0.chunk.js"
+    "revision": "5456b66dad6dbc7fe78b",
+    "url": "/uportlandia/static/js/main.96746e73.chunk.js"
   },
   {
     "revision": "14ea764e95508945d8d7",
     "url": "/uportlandia/static/js/runtime~main.d45aafa6.js"
   },
   {
-    "revision": "f468a2b0c57784963968",
-    "url": "/uportlandia/static/js/2.062319be.chunk.js"
+    "revision": "78a0d93fce0baf771d7f",
+    "url": "/uportlandia/static/js/2.7d1a085a.chunk.js"
   },
   {
     "revision": "09cfe256212b76eed2c5e1cbde567ed0",
@@ -40,12 +40,12 @@ self.__precacheManifest = [
     "url": "/uportlandia/static/media/arrow-left.37b638cc.svg"
   },
   {
-    "revision": "71bd417f0b4208d1d52aeac1c49ea335",
-    "url": "/uportlandia/static/media/NHIS_logo.71bd417f.png"
-  },
-  {
     "revision": "6cfca76ff30bbf5ceb4ceeb0c6574d1e",
     "url": "/uportlandia/static/media/uport-icon-white.6cfca76f.svg"
+  },
+  {
+    "revision": "71bd417f0b4208d1d52aeac1c49ea335",
+    "url": "/uportlandia/static/media/NHIS_logo.71bd417f.png"
   },
   {
     "revision": "8d28001e0891ddeaf5492dc76681d8da",
@@ -120,7 +120,7 @@ self.__precacheManifest = [
     "url": "/uportlandia/static/media/smiley-face-diploma.ee6b2d97.svg"
   },
   {
-    "revision": "4bacc88aa9bffa0d753970c0ee9c7f6c",
+    "revision": "f8faa9b81837365abaac50a2e74b90e4",
     "url": "/uportlandia/index.html"
   }
 ];

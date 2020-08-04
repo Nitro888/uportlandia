@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/uportlandia/precache-manifest.8f6c17e0943d872d4544a59423d5502b.js"
+  "/uportlandia/precache-manifest.b589f1edb8fd93a5561963826e5712f0.js"
 );
 
 workbox.clientsClaim();
